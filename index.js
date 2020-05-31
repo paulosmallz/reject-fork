@@ -11,3 +11,7 @@ app.use(cors());
 app.use(helmet());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
+
+//routes
+
+app.get("/", async (req, res) => {});
