@@ -1,2 +1,2 @@
 # reject-fork
-fork reject -some of my on changes
+ Playing around with what happens when a merge conflict is discovered.
